@@ -86,10 +86,13 @@ public class CalculatorSIF {
 
 	private static void writeResultBySIF(Map<String, List<String>> mapSIF, String outputFile, Map<String, ClinicalTrial> mapMutProfile) throws IOException {
 		BufferedWriter out = new BufferedWriter(new FileWriter(outputFile));
+		outputFile = outputFile.replace(".txt","_SurvivalAnalysis.txt");
+		
+		BufferedWriter out2 = new BufferedWriter(new FileWriter(outputFile));
 
 		out.append("patient_id\trelation_sif\tcount\tos\tTMB\n");
 
-		System.out.println("sif\tcount\tsd_os\tmean_os\tsd_TMB\tmean_TMB\tOSs\telseOSs\tTMBs\telseTMBs");
+		out2.append("sif\tcount\tsd_os\tmean_os\tsd_TMB\tmean_TMB\tOSs\telseOSs\tTMBs\telseTMBs\n");
 		for(String sif : mapSIF.keySet())	{
 			List<Double> patient_os = new ArrayList<>();
 			List<Double> patient_tmb = new ArrayList<>();
@@ -105,8 +108,8 @@ public class CalculatorSIF {
 				ClinicalTrial clinInfo = mapMutProfile.get(patient);
 				patient_os.add(clinInfo.getOverall_Survival());
 				patient_tmb.add(clinInfo.getTMB_Score());
-//				out.append(patient + "\t" + sif + "\t"+mapSIF.get(sif).size() + "\t" + clinInfo.getOverall_Survival() +"\t" + clinInfo.getTMB_Score());
-//				out.append("\n");
+				out.append(patient + "\t" + sif + "\t"+mapSIF.get(sif).size() + "\t" + clinInfo.getOverall_Survival() +"\t" + clinInfo.getTMB_Score());
+				out.append("\n");
 			}
 			
 			for(String unusedPat : temp) {
@@ -115,10 +118,11 @@ public class CalculatorSIF {
 				else_patient_tmb.add(clinInfo.getTMB_Score());
 			}
 			
-			System.out.println(sif + "\t"+patient_os.size() + "\t"+ calcSD(patient_os) + "\t" + calcMean(patient_os)+ "\t"+ calcSD(patient_tmb) + "\t" + calcMean(patient_tmb) + "\t"+ patient_os.toString() + "\t" + else_patient_os.toString() + "\t"+ patient_tmb.toString() + "\t" + else_patient_tmb.toString());
+			out2.append(sif + "\t"+patient_os.size() + "\t"+ calcSD(patient_os) + "\t" + calcMean(patient_os)+ "\t"+ calcSD(patient_tmb) + "\t" + calcMean(patient_tmb) + "\t"+ patient_os.toString() + "\t" + else_patient_os.toString() + "\t"+ patient_tmb.toString() + "\t" + else_patient_tmb.toString() + "\n");
 		}
 
 		out.close();
+		out2.close();
 	}
 
 	private static List<String> getUnusedPatient(List<String> list, Map<String, ClinicalTrial> mapMutProfile) {
