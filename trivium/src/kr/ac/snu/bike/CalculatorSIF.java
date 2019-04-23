@@ -89,23 +89,46 @@ public class CalculatorSIF {
 
 		out.append("patient_id\trelation_sif\tcount\tos\tTMB\n");
 
-		System.out.println("sif\tcount\tsd_os\tmean_os\tsd_TMB\tmean_TMB\tOSs\tTMBs");
+		System.out.println("sif\tcount\tsd_os\tmean_os\tsd_TMB\tmean_TMB\tOSs\telseOSs\tTMBs\telseTMBs");
 		for(String sif : mapSIF.keySet())	{
 			List<Double> patient_os = new ArrayList<>();
 			List<Double> patient_tmb = new ArrayList<>();
+			
+			List<Double> else_patient_os = new ArrayList<>();
+			List<Double> else_patient_tmb = new ArrayList<>();
+			List<String> temp = getUnusedPatient(mapSIF.get(sif),mapMutProfile);
+			
+//			System.out.println("unused: " + temp.toString());
+//			System.out.println("used: " + mapSIF.get(sif).toString());
 			
 			for(String patient : mapSIF.get(sif)) {
 				ClinicalTrial clinInfo = mapMutProfile.get(patient);
 				patient_os.add(clinInfo.getOverall_Survival());
 				patient_tmb.add(clinInfo.getTMB_Score());
-				out.append(patient + "\t" + sif + "\t"+mapSIF.get(sif).size() + "\t" + clinInfo.getOverall_Survival() +"\t" + clinInfo.getTMB_Score());
-				out.append("\n");
+//				out.append(patient + "\t" + sif + "\t"+mapSIF.get(sif).size() + "\t" + clinInfo.getOverall_Survival() +"\t" + clinInfo.getTMB_Score());
+//				out.append("\n");
 			}
 			
-			System.out.println(sif + "\t"+patient_os.size() + "\t"+ calcSD(patient_os) + "\t" + calcMean(patient_os)+ "\t"+ calcSD(patient_tmb) + "\t" + calcMean(patient_tmb) + "\t"+ patient_os.toString() + "\t"+ patient_tmb.toString());
+			for(String unusedPat : temp) {
+				ClinicalTrial clinInfo = mapMutProfile.get(unusedPat);
+				else_patient_os.add(clinInfo.getOverall_Survival());
+				else_patient_tmb.add(clinInfo.getTMB_Score());
+			}
+			
+			System.out.println(sif + "\t"+patient_os.size() + "\t"+ calcSD(patient_os) + "\t" + calcMean(patient_os)+ "\t"+ calcSD(patient_tmb) + "\t" + calcMean(patient_tmb) + "\t"+ patient_os.toString() + "\t" + else_patient_os.toString() + "\t"+ patient_tmb.toString() + "\t" + else_patient_tmb.toString());
 		}
 
 		out.close();
+	}
+
+	private static List<String> getUnusedPatient(List<String> list, Map<String, ClinicalTrial> mapMutProfile) {
+		List<String> allPatient = new ArrayList<>(mapMutProfile.keySet());
+		
+		for(String item : list) {
+			allPatient.remove(item);
+		}
+		
+		return allPatient;
 	}
 
 	private static double calcSD(List<Double> patient_os) {

@@ -33,9 +33,9 @@ public class SIFExtractor {
 		mapGenebyPatient = mergeGeneByPatient(mapMutProfile,mapEnrichProfile);
 		
 		//mutation profile
-		for(String pat : mapGenebyPatient.keySet())	{
-			System.out.println(pat + "\t"+mapGenebyPatient.get(pat));
-		}
+//		for(String pat : mapGenebyPatient.keySet())	{
+//			System.out.println(pat + "\t"+mapGenebyPatient.get(pat));
+//		}
 		
 		PathwayCommonsExtractor pcExtractor = new PathwayCommonsExtractor();
 		pcExtractor.run(mapGenebyPatient,output,mapMutProfile);
