@@ -68,7 +68,7 @@ public class PathwayCommonsExtractor {
 		query = query.substring(0,query.length()-1);
 //		String url = "http://www.pathwaycommons.org/pc2/graph?" + query +"pattern=CONTROLS_STATE_CHANGE_OF&pattern=CONTROLS_EXPRESSION_OF&kind=NEIGHBORHOOD&limit=1&direction=BOTHSTREAM&format=SIF&subpw=false";
 		String url = "https://apps.pathwaycommons.org/api/interactions?" + query;
-//		System.out.println("["+patient + "]\nquery: " + url);
+		System.out.println("["+patient + "]\nquery: " + url);
 		
 		// call url
 		URL obj = new URL(url);

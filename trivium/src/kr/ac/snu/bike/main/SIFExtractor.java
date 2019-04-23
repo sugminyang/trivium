@@ -18,9 +18,14 @@ public class SIFExtractor {
 //			System.out.println("Invalid parameter ... e.g> java -jar PathwayCommonsExtractor.jar inputFile outputFile");
 //			System.exit(1);	
 //		}
-		String mutationProfilePath = "./pathwaycommons/M_Breast_mutation_profile.txt";
-		String enrichmentProfilePath = "./pathwaycommons/M_Breast_enrichment.txt";
-		String output = "./pathwaycommons/output/output_M_breast_0423.txt";
+		
+//		String mutationProfilePath = "./pathwaycommons/M_Breast_mutation_profile.txt";
+//		String enrichmentProfilePath = "./pathwaycommons/M_Breast_enrichment.txt";
+//		String output = "./pathwaycommons/output/output_M_breast_0423.txt";
+
+		String mutationProfilePath = "./pathwaycommons/P_Breast_mutation_profile.txt";
+		String enrichmentProfilePath = "./pathwaycommons/P_Breast_enrichment.txt";
+		String output = "./pathwaycommons/output/output_P_breast.txt";
 		
 		Map<String, LinkedHashSet<String>> mapGenebyPatient = new HashMap<String,LinkedHashSet<String>>();
 		
@@ -33,9 +38,9 @@ public class SIFExtractor {
 		mapGenebyPatient = mergeGeneByPatient(mapMutProfile,mapEnrichProfile);
 		
 		//mutation profile
-//		for(String pat : mapGenebyPatient.keySet())	{
-//			System.out.println(pat + "\t"+mapGenebyPatient.get(pat));
-//		}
+		for(String pat : mapGenebyPatient.keySet())	{
+			System.out.println(pat + "\t"+mapGenebyPatient.get(pat));
+		}
 		
 		PathwayCommonsExtractor pcExtractor = new PathwayCommonsExtractor();
 		pcExtractor.run(mapGenebyPatient,output,mapMutProfile);

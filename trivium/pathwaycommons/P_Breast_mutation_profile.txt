@@ -1,0 +1,46 @@
+Patient ID	Overall Survival (Months)	TMB Score	Cancer Type	Cancer Type Detailed	Oncotree Code	Sample Type	Drug Type	Primary Tumor Site	Variant_Type	Hugo_Symbol
+P-0015905	1	4.39	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Primary	PD-1/PDL-1	Breast	SNP	AXL
+P-0015905	1	4.39	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Primary	PD-1/PDL-1	Breast	SNP	CTNNB1
+P-0015905	1	4.39	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Primary	PD-1/PDL-1	Breast	SNP	KMT2B
+P-0015905	1	4.39	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Primary	PD-1/PDL-1	Breast	SNP	PIK3CA
+P-0015905	1	4.39	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Primary	PD-1/PDL-1	Breast	SNP	TP53
+P-0015445	2	2.63	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Primary	PD-1/PDL-1	Breast	SNP	EIF4A2
+P-0015445	2	2.63	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Primary	PD-1/PDL-1	Breast	SNP	PIK3CD
+P-0015445	2	2.63	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Primary	PD-1/PDL-1	Breast	SNP	TP53
+P-0015445	2	2.63	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Primary	PD-1/PDL-1	Breast	ROBO2-MYD88 fusion	MYD88
+P-0015445	2	2.63	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Primary	PD-1/PDL-1	Breast	ROBO2-MYD88 fusion	ROBO2
+P-0010669	2	3.94	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Primary	CTLA4	Breast	SNP	E2F3
+P-0010669	2	3.94	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Primary	CTLA4	Breast	SNP	MST1R
+P-0010669	2	3.94	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Primary	CTLA4	Breast	SNP	TP53
+P-0010669	2	3.94	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Primary	CTLA4	Breast	SNP	XIAP
+P-0009727	4	0.98	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Primary	CTLA4	Breast	SNP	TP53
+P-0007349	14	4.92	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Primary	CTLA4	Breast	DEL	TP53
+P-0007349	14	4.92	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Primary	CTLA4	Breast	SNP	ARID1A
+P-0007349	14	4.92	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Primary	CTLA4	Breast	SNP	CDH1
+P-0007349	14	4.92	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Primary	CTLA4	Breast	SNP	FBXW7
+P-0007349	14	4.92	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Primary	CTLA4	Breast	SNP	TP53
+P-0007014	5	2.95	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Primary	CTLA4	Breast	INS	GATA3
+P-0007014	5	2.95	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Primary	CTLA4	Breast	SNP	RAF1
+P-0007014	5	2.95	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Primary	CTLA4	Breast	SNP	TP53
+P-0007014	5	2.95	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Primary	CTLA4	Breast	RAD51C-ZFP64 fusion	RAD51C
+P-0007014	5	2.95	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Primary	CTLA4	Breast	RAD51C-ZFP64 fusion	ZFP64
+P-0005712	20	3.94	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Primary	CTLA4	Breast	DEL	MLL3
+P-0005712	20	3.94	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Primary	CTLA4	Breast	SNP	BRCA2
+P-0005712	20	3.94	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Primary	CTLA4	Breast	SNP	PIK3R1
+P-0005712	20	3.94	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Primary	CTLA4	Breast	SNP	TP53
+P-0005712	20	3.94	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Primary	CTLA4	Breast	ARID2-intragenic	ARID2
+P-0005712	20	3.94	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Primary	CTLA4	Breast	FH-intragenic	FH
+P-0003241	2	2.95	Breast Cancer	Breast Mixed Ductal and Lobular Carcinoma	MDLC	Primary	Combo	Breast	DEL	CDH1
+P-0003241	2	2.95	Breast Cancer	Breast Mixed Ductal and Lobular Carcinoma	MDLC	Primary	Combo	Breast	DEL	PTEN
+P-0003241	2	2.95	Breast Cancer	Breast Mixed Ductal and Lobular Carcinoma	MDLC	Primary	Combo	Breast	SNP	PTEN
+P-0001785	13	2.23	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Primary	PD-1/PDL-1	Breast	SNP	ASXL1
+P-0001785	13	2.23	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Primary	PD-1/PDL-1	Breast	SNP	TP53
+P-0000447	12	3.35	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Primary	Combo	Breast	INS	TP53
+P-0000447	12	3.35	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Primary	Combo	Breast	SNP	BRCA1
+P-0000447	12	3.35	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Primary	Combo	Breast	SNP	HIST1H3B
+P-0000447	12	3.35	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Primary	Combo	Breast	PTEN-intragenic	PTEN
+P-0000057	0	5.58	Breast Cancer	Breast Mixed Ductal and Lobular Carcinoma	MDLC	Primary	PD-1/PDL-1	Breast	SNP	BARD1
+P-0000057	0	5.58	Breast Cancer	Breast Mixed Ductal and Lobular Carcinoma	MDLC	Primary	PD-1/PDL-1	Breast	SNP	MAP3K13
+P-0000057	0	5.58	Breast Cancer	Breast Mixed Ductal and Lobular Carcinoma	MDLC	Primary	PD-1/PDL-1	Breast	SNP	NOTCH4
+P-0000057	0	5.58	Breast Cancer	Breast Mixed Ductal and Lobular Carcinoma	MDLC	Primary	PD-1/PDL-1	Breast	SNP	PIK3CA
+P-0000057	0	5.58	Breast Cancer	Breast Mixed Ductal and Lobular Carcinoma	MDLC	Primary	PD-1/PDL-1	Breast	SNP	TP53
