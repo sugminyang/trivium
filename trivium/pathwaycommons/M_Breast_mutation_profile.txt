@@ -1,0 +1,175 @@
+Patient ID	Overall Survival (Months)	TMB Score	Cancer Type	Cancer Type Detailed	Oncotree Code	Sample Type	Drug Type	Metastatic Site	Fusion	Hugo_Symbol
+P-0001312	3	2.23	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Lymph Node	ONP	CCND1
+P-0001312	3	2.23	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Lymph Node	SNP	TP53
+P-0005274	2	5.9	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Chest Wall	DEL	DNAJB1
+P-0005274	2	5.9	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Chest Wall	DEL	MLL2
+P-0005274	2	5.9	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Chest Wall	SNP	ANKRD11
+P-0005274	2	5.9	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Chest Wall	SNP	MLL2
+P-0005274	2	5.9	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Chest Wall	SNP	MYCN
+P-0005274	2	5.9	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Chest Wall	SNP	TP53
+P-0013210	3	2.95	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Lung	DEL	MLL2
+P-0013210	3	2.95	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Lung	INS	TP53
+P-0013210	3	2.95	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Lung	SNP	GNA11
+P-0000247	17	2.23	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	Combo	Liver	INS	SOX17
+P-0000247	17	2.23	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	Combo	Liver	SNP	MSH6
+P-0000392	3	3.35	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Pleura	SNP	FAT1
+P-0000392	3	3.35	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Pleura	SNP	STAG2
+P-0000392	3	3.35	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Pleura	SNP	TP53
+P-0000422	1	6.69	Breast Cancer	Breast Invasive Lobular Carcinoma	ILC	Metastasis	CTLA4	Ovary	DEL	CDH1
+P-0000422	1	6.69	Breast Cancer	Breast Invasive Lobular Carcinoma	ILC	Metastasis	CTLA4	Ovary	SNP	DAXX
+P-0000422	1	6.69	Breast Cancer	Breast Invasive Lobular Carcinoma	ILC	Metastasis	CTLA4	Ovary	SNP	HIST1H3B
+P-0000422	1	6.69	Breast Cancer	Breast Invasive Lobular Carcinoma	ILC	Metastasis	CTLA4	Ovary	SNP	PIK3CA
+P-0000422	1	6.69	Breast Cancer	Breast Invasive Lobular Carcinoma	ILC	Metastasis	CTLA4	Ovary	SNP	PTEN
+P-0000422	1	6.69	Breast Cancer	Breast Invasive Lobular Carcinoma	ILC	Metastasis	CTLA4	Ovary	SNP	RNF43
+P-0000547	3	6.69	Breast Cancer	Breast Invasive Lobular Carcinoma	ILC	Metastasis	PD-1/PDL-1	Bone	SNP	ALK
+P-0000547	3	6.69	Breast Cancer	Breast Invasive Lobular Carcinoma	ILC	Metastasis	PD-1/PDL-1	Bone	SNP	CDH1
+P-0000547	3	6.69	Breast Cancer	Breast Invasive Lobular Carcinoma	ILC	Metastasis	PD-1/PDL-1	Bone	SNP	ERBB2
+P-0000547	3	6.69	Breast Cancer	Breast Invasive Lobular Carcinoma	ILC	Metastasis	PD-1/PDL-1	Bone	SNP	FOXA1
+P-0000547	3	6.69	Breast Cancer	Breast Invasive Lobular Carcinoma	ILC	Metastasis	PD-1/PDL-1	Bone	SNP	PIK3CA
+P-0000547	3	6.69	Breast Cancer	Breast Invasive Lobular Carcinoma	ILC	Metastasis	PD-1/PDL-1	Bone	SNP	RICTOR
+P-0000704	1	10.04	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	CTLA4	Liver	SNP	FGFR1
+P-0000704	1	10.04	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	CTLA4	Liver	SNP	MDC1
+P-0000704	1	10.04	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	CTLA4	Liver	SNP	MLL2
+P-0000704	1	10.04	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	CTLA4	Liver	SNP	PIK3CA
+P-0000704	1	10.04	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	CTLA4	Liver	SNP	PMS1
+P-0000704	1	10.04	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	CTLA4	Liver	SNP	PTEN
+P-0000704	1	10.04	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	CTLA4	Liver	SNP	PTPRT
+P-0000704	1	10.04	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	CTLA4	Liver	SNP	ROS1
+P-0000704	1	10.04	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	CTLA4	Liver	SNP	TP53
+P-0002789	9	2.23	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	CTLA4	Chest Wall	DEL	TP53
+P-0002789	9	2.23	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	CTLA4	Chest Wall	SNP	PIK3CA
+P-0003224	28	14.76	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	CTLA4	Liver	INS	GATA3
+P-0003224	28	14.76	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	CTLA4	Liver	SNP	AR
+P-0003224	28	14.76	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	CTLA4	Liver	SNP	ARID1A
+P-0003224	28	14.76	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	CTLA4	Liver	SNP	CCNE1
+P-0003224	28	14.76	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	CTLA4	Liver	SNP	CDH1
+P-0003224	28	14.76	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	CTLA4	Liver	SNP	DNMT3B
+P-0003224	28	14.76	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	CTLA4	Liver	SNP	ESR1
+P-0003224	28	14.76	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	CTLA4	Liver	SNP	IGF1R
+P-0003224	28	14.76	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	CTLA4	Liver	SNP	MAP3K1
+P-0003224	28	14.76	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	CTLA4	Liver	SNP	NF1
+P-0003224	28	14.76	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	CTLA4	Liver	SNP	PIK3CA
+P-0003224	28	14.76	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	CTLA4	Liver	SNP	POLE
+P-0003224	28	14.76	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	CTLA4	Liver	SNP	RAD50
+P-0003224	28	14.76	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	CTLA4	Liver	SNP	RICTOR
+P-0003265	19	3.94	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	CTLA4	Skin	SNP	ESR1
+P-0003265	19	3.94	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	CTLA4	Skin	SNP	IL7R
+P-0003265	19	3.94	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	CTLA4	Skin	SNP	NOTCH3
+P-0003265	19	3.94	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	CTLA4	Skin	SNP	PIK3CA
+P-0003273	6	0.98	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	CTLA4	Bone	SNP	ERBB2
+P-0005131	5	1.97	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	CTLA4	Lung	SNP	PIK3CA
+P-0005131	5	1.97	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	CTLA4	Lung	SNP	TP53
+P-0005176	5	1.97	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	CTLA4	Lymph Node	EP300-intragenic	EP300
+P-0005176	5	1.97	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	CTLA4	Lymph Node	PTEN-intragenic	PTEN
+P-0005176	5	1.97	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	CTLA4	Lymph Node	RB1-intragenic	RB1
+P-0005176	5	1.97	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	CTLA4	Lymph Node	DEL	GNAS
+P-0005176	5	1.97	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	CTLA4	Lymph Node	INS	TP53
+P-0005855	3	5.9	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	CTLA4	Bone	HIST1H3B-HIST1H4B fusion	HIST1H3B
+P-0005855	3	5.9	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	CTLA4	Bone	HIST1H3B-HIST1H4B fusion	HIST1H4B
+P-0005855	3	5.9	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	CTLA4	Bone	PAX5-intragenic	PAX5
+P-0005855	3	5.9	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	CTLA4	Bone	DEL	ARID2
+P-0005855	3	5.9	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	CTLA4	Bone	DEL	MYD88
+P-0005855	3	5.9	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	CTLA4	Bone	INS	TP53
+P-0005855	3	5.9	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	CTLA4	Bone	SNP	EPHA5
+P-0005855	3	5.9	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	CTLA4	Bone	SNP	PIK3CA
+P-0005855	3	5.9	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	CTLA4	Bone	SNP	ZFHX3
+P-0006227	4	6.89	Breast Cancer	Breast Invasive Lobular Carcinoma	ILC	Metastasis	PD-1/PDL-1	Ovary	DEL	TBX3
+P-0006227	4	6.89	Breast Cancer	Breast Invasive Lobular Carcinoma	ILC	Metastasis	PD-1/PDL-1	Ovary	SNP	AKT1
+P-0006227	4	6.89	Breast Cancer	Breast Invasive Lobular Carcinoma	ILC	Metastasis	PD-1/PDL-1	Ovary	SNP	ATM
+P-0006227	4	6.89	Breast Cancer	Breast Invasive Lobular Carcinoma	ILC	Metastasis	PD-1/PDL-1	Ovary	SNP	CDH1
+P-0006227	4	6.89	Breast Cancer	Breast Invasive Lobular Carcinoma	ILC	Metastasis	PD-1/PDL-1	Ovary	SNP	RHOA
+P-0006227	4	6.89	Breast Cancer	Breast Invasive Lobular Carcinoma	ILC	Metastasis	PD-1/PDL-1	Ovary	SNP	TP53
+P-0006227	4	6.89	Breast Cancer	Breast Invasive Lobular Carcinoma	ILC	Metastasis	PD-1/PDL-1	Ovary	SNP	ZRSR2
+P-0006842	9	5.9	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	Combo	Liver	AP1M2-DNMT1 fusion	AP1M2
+P-0006842	9	5.9	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	Combo	Liver	AP1M2-DNMT1 fusion	DNMT1
+P-0006842	9	5.9	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	Combo	Liver	INS	TP53
+P-0006842	9	5.9	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	Combo	Liver	SNP	AURKA
+P-0006842	9	5.9	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	Combo	Liver	SNP	KDR
+P-0006842	9	5.9	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	Combo	Liver	SNP	MYC
+P-0006842	9	5.9	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	Combo	Liver	SNP	PIK3CA
+P-0006842	9	5.9	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	Combo	Liver	SNP	PIK3R2
+P-0007127	15	3.94	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	CTLA4	Lung	DEL	TP53
+P-0007127	15	3.94	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	CTLA4	Lung	SNP	NF1
+P-0007127	15	3.94	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	CTLA4	Lung	SNP	TNFAIP3
+P-0007127	15	3.94	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	CTLA4	Lung	SNP	TSC2
+P-0008571	15	1.97	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Lymph Node	SNP	FYN
+P-0008571	15	1.97	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Lymph Node	SNP	SMARCA4
+P-0009297	14	7.87	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Skin	DEL	NOTCH2
+P-0009297	14	7.87	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Skin	DEL	TP53
+P-0009297	14	7.87	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Skin	SNP	AKT3
+P-0009297	14	7.87	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Skin	SNP	CDKN2A
+P-0009297	14	7.87	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Skin	SNP	CDKN2Ap14ARF
+P-0009297	14	7.87	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Skin	SNP	CDKN2Ap16INK4A
+P-0009297	14	7.87	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Skin	SNP	EPHA3
+P-0009297	14	7.87	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Skin	SNP	PLK2
+P-0009364	19	27.55	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Lymph Node	COL14A1-DEPDC6 fusion	COL14A1
+P-0009364	19	27.55	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Lymph Node	COL14A1-DEPDC6 fusion	DEPDC6
+P-0009364	19	27.55	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Lymph Node	FOXP1-intragenic	FOXP1
+P-0009364	19	27.55	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Lymph Node	INS	RUNX1
+P-0009364	19	27.55	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Lymph Node	INS	TP53
+P-0009364	19	27.55	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Lymph Node	SNP	APC
+P-0009364	19	27.55	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Lymph Node	SNP	ARID2
+P-0009364	19	27.55	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Lymph Node	SNP	ATM
+P-0009364	19	27.55	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Lymph Node	SNP	ATR
+P-0009364	19	27.55	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Lymph Node	SNP	CARD11
+P-0009364	19	27.55	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Lymph Node	SNP	CDKN2A
+P-0009364	19	27.55	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Lymph Node	SNP	CDKN2Ap16INK4A
+P-0009364	19	27.55	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Lymph Node	SNP	ERCC5
+P-0009364	19	27.55	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Lymph Node	SNP	FGFR4
+P-0009364	19	27.55	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Lymph Node	SNP	FLT4
+P-0009364	19	27.55	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Lymph Node	SNP	HLA-A
+P-0009364	19	27.55	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Lymph Node	SNP	INSR
+P-0009364	19	27.55	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Lymph Node	SNP	MDM2
+P-0009364	19	27.55	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Lymph Node	SNP	MGA
+P-0009364	19	27.55	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Lymph Node	SNP	MLL2
+P-0009364	19	27.55	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Lymph Node	SNP	MSH6
+P-0009364	19	27.55	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Lymph Node	SNP	NOTCH4
+P-0009364	19	27.55	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Lymph Node	SNP	NUP93
+P-0009364	19	27.55	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Lymph Node	SNP	PARP1
+P-0009364	19	27.55	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Lymph Node	SNP	PIK3CA
+P-0009364	19	27.55	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Lymph Node	SNP	PTPRS
+P-0009364	19	27.55	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Lymph Node	SNP	RPS6KB2
+P-0009364	19	27.55	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Lymph Node	SNP	SPEN
+P-0009364	19	27.55	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Lymph Node	SNP	YES1
+P-0009498	13	4.92	Breast Cancer	Breast Invasive Lobular Carcinoma	ILC	Metastasis	PD-1/PDL-1	Pleura	DEL	MAP2K4
+P-0009498	13	4.92	Breast Cancer	Breast Invasive Lobular Carcinoma	ILC	Metastasis	PD-1/PDL-1	Pleura	INS	PTEN
+P-0009498	13	4.92	Breast Cancer	Breast Invasive Lobular Carcinoma	ILC	Metastasis	PD-1/PDL-1	Pleura	SNP	DDR2
+P-0009498	13	4.92	Breast Cancer	Breast Invasive Lobular Carcinoma	ILC	Metastasis	PD-1/PDL-1	Pleura	SNP	FOXP1
+P-0009498	13	4.92	Breast Cancer	Breast Invasive Lobular Carcinoma	ILC	Metastasis	PD-1/PDL-1	Pleura	SNP	MAP3K1
+P-0010252	18	4.92	Breast Cancer	"Breast Invasive Carcinoma, NOS"	BRCNOS	Metastasis	PD-1/PDL-1	Brain	APC-CELF2 fusion	APC
+P-0010252	18	4.92	Breast Cancer	"Breast Invasive Carcinoma, NOS"	BRCNOS	Metastasis	PD-1/PDL-1	Brain	APC-CELF2 fusion	CELF2
+P-0010252	18	4.92	Breast Cancer	"Breast Invasive Carcinoma, NOS"	BRCNOS	Metastasis	PD-1/PDL-1	Brain	SNP	CDK12
+P-0010252	18	4.92	Breast Cancer	"Breast Invasive Carcinoma, NOS"	BRCNOS	Metastasis	PD-1/PDL-1	Brain	SNP	EPHA3
+P-0010252	18	4.92	Breast Cancer	"Breast Invasive Carcinoma, NOS"	BRCNOS	Metastasis	PD-1/PDL-1	Brain	SNP	MLL
+P-0010252	18	4.92	Breast Cancer	"Breast Invasive Carcinoma, NOS"	BRCNOS	Metastasis	PD-1/PDL-1	Brain	SNP	PIK3R2
+P-0010252	18	4.92	Breast Cancer	"Breast Invasive Carcinoma, NOS"	BRCNOS	Metastasis	PD-1/PDL-1	Brain	SNP	TP53
+P-0010800	10	3.94	Breast Cancer	Breast Invasive Lobular Carcinoma	ILC	Metastasis	CTLA4	Lymph Node	INS	CDH1
+P-0010800	10	3.94	Breast Cancer	Breast Invasive Lobular Carcinoma	ILC	Metastasis	CTLA4	Lymph Node	SNP	ARID5B
+P-0010800	10	3.94	Breast Cancer	Breast Invasive Lobular Carcinoma	ILC	Metastasis	CTLA4	Lymph Node	SNP	MAP2K4
+P-0010800	10	3.94	Breast Cancer	Breast Invasive Lobular Carcinoma	ILC	Metastasis	CTLA4	Lymph Node	SNP	PIK3CA
+P-0010994	4	3.94	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Skin	MTMR3-EWSR1 fusion	EWSR1
+P-0010994	4	3.94	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Skin	MTMR3-EWSR1 fusion	MTMR3
+P-0010994	4	3.94	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Skin	SNP	EPHA3
+P-0010994	4	3.94	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Skin	SNP	NOTCH1
+P-0010994	4	3.94	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Skin	SNP	STAG2
+P-0010994	4	3.94	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Skin	SNP	TP53
+P-0011552	4	5.9	Breast Cancer	"Breast Invasive Carcinoma, NOS"	BRCNOS	Metastasis	PD-1/PDL-1	Bone	DEL	CBFB
+P-0011552	4	5.9	Breast Cancer	"Breast Invasive Carcinoma, NOS"	BRCNOS	Metastasis	PD-1/PDL-1	Bone	DEL	MLL2
+P-0011552	4	5.9	Breast Cancer	"Breast Invasive Carcinoma, NOS"	BRCNOS	Metastasis	PD-1/PDL-1	Bone	DEL	MLL3
+P-0011552	4	5.9	Breast Cancer	"Breast Invasive Carcinoma, NOS"	BRCNOS	Metastasis	PD-1/PDL-1	Bone	SNP	CDH1
+P-0011552	4	5.9	Breast Cancer	"Breast Invasive Carcinoma, NOS"	BRCNOS	Metastasis	PD-1/PDL-1	Bone	SNP	ESR1
+P-0011552	4	5.9	Breast Cancer	"Breast Invasive Carcinoma, NOS"	BRCNOS	Metastasis	PD-1/PDL-1	Bone	SNP	RHOA
+P-0012803	3	4.92	Breast Cancer	"Breast Invasive Cancer, NOS"	BRCANOS	Metastasis	CTLA4	Lymph Node	DEL	ATR
+P-0012803	3	4.92	Breast Cancer	"Breast Invasive Cancer, NOS"	BRCANOS	Metastasis	CTLA4	Lymph Node	INS	GATA3
+P-0012803	3	4.92	Breast Cancer	"Breast Invasive Cancer, NOS"	BRCANOS	Metastasis	CTLA4	Lymph Node	SNP	NTRK3
+P-0012803	3	4.92	Breast Cancer	"Breast Invasive Cancer, NOS"	BRCANOS	Metastasis	CTLA4	Lymph Node	SNP	PIK3CA
+P-0012803	3	4.92	Breast Cancer	"Breast Invasive Cancer, NOS"	BRCANOS	Metastasis	CTLA4	Lymph Node	SNP	SH2D1A
+P-0012825	14	0.88	Breast Cancer	Invasive Breast Carcinoma	BRCA	Metastasis	PD-1/PDL-1	Soft Tissue	INS	RB1
+P-0015713	9	0.88	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Liver	RB1-intragenic	RB1
+P-0015713	9	0.88	Breast Cancer	Breast Invasive Ductal Carcinoma	IDC	Metastasis	PD-1/PDL-1	Liver	SNP	TP53
+P-0016226	22	3.51	Breast Cancer	"Breast Invasive Cancer, NOS"	BRCANOS	Metastasis	CTLA4	Liver	MALT1-CDH2 fusion	CDH2
+P-0016226	22	3.51	Breast Cancer	"Breast Invasive Cancer, NOS"	BRCANOS	Metastasis	CTLA4	Liver	MALT1-CDH2 fusion	MALT1
+P-0016226	22	3.51	Breast Cancer	"Breast Invasive Cancer, NOS"	BRCANOS	Metastasis	CTLA4	Liver	DEL	TCF3
+P-0016226	22	3.51	Breast Cancer	"Breast Invasive Cancer, NOS"	BRCANOS	Metastasis	CTLA4	Liver	SNP	ESR1
+P-0016226	22	3.51	Breast Cancer	"Breast Invasive Cancer, NOS"	BRCANOS	Metastasis	CTLA4	Liver	SNP	FOXP1
+P-0016226	22	3.51	Breast Cancer	"Breast Invasive Cancer, NOS"	BRCANOS	Metastasis	CTLA4	Liver	SNP	WHSC1L1
