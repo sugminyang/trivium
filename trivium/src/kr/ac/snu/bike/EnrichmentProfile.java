@@ -27,7 +27,7 @@ public class EnrichmentProfile {
 			while((line=in.readLine()) != null)	{
 				if(header) {
 					header = false;
-					System.out.println(line);
+//					System.out.println(line);
 					continue;
 				}
 				

@@ -20,7 +20,7 @@ public class SIFExtractor {
 //		}
 		String mutationProfilePath = "./pathwaycommons/M_Breast_mutation_profile.txt";
 		String enrichmentProfilePath = "./pathwaycommons/M_Breast_enrichment.txt";
-		String output = "./pathwaycommons/output/output_M_breast.txt";
+		String output = "./pathwaycommons/output/output_M_breast_0423.txt";
 		
 		Map<String, LinkedHashSet<String>> mapGenebyPatient = new HashMap<String,LinkedHashSet<String>>();
 		
@@ -48,7 +48,7 @@ public class SIFExtractor {
 		
 		//mutation profile
 		for(String pat : mapMutProfile.keySet())	{
-			System.out.println(mapMutProfile.get(pat).getPatientID() + "\t" + mapMutProfile.get(pat).getSetHugo_Symbol());
+//			System.out.println(mapMutProfile.get(pat).getPatientID() + "\t" + mapMutProfile.get(pat).getSetHugo_Symbol());
 			
 			LinkedHashSet<String> genes = mapMutProfile.get(pat).getSetHugo_Symbol();
 			mapGenebyPatient.put(pat, genes);
@@ -56,7 +56,7 @@ public class SIFExtractor {
 		
 		//enrichment profile
 		for(String pat : mapEnrichProfile.keySet())	{
-			System.out.println(mapEnrichProfile.get(pat).getPatientID() + "\t" + mapEnrichProfile.get(pat).getSetHugo_Symbol());
+//			System.out.println(mapEnrichProfile.get(pat).getPatientID() + "\t" + mapEnrichProfile.get(pat).getSetHugo_Symbol());
 			
 			if(mapGenebyPatient.containsKey(pat))	{	//exist
 				LinkedHashSet<String> genes = mapGenebyPatient.get(pat);
@@ -73,9 +73,8 @@ public class SIFExtractor {
 				mapGenebyPatient.put(pat, genes);
 			}
 		}
-		System.out.println();
-		System.out.println();
-		System.out.println();
+//		System.out.println();
+//		System.out.println();
 		return mapGenebyPatient;
 	}
 

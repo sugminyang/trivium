@@ -89,14 +89,51 @@ public class CalculatorSIF {
 
 		out.append("patient_id\trelation_sif\tcount\tos\tTMB\n");
 
+		System.out.println("sif\tcount\tsd_os\tmean_os\tsd_TMB\tmean_TMB\tOSs\tTMBs");
 		for(String sif : mapSIF.keySet())	{
+			List<Double> patient_os = new ArrayList<>();
+			List<Double> patient_tmb = new ArrayList<>();
+			
 			for(String patient : mapSIF.get(sif)) {
 				ClinicalTrial clinInfo = mapMutProfile.get(patient);
+				patient_os.add(clinInfo.getOverall_Survival());
+				patient_tmb.add(clinInfo.getTMB_Score());
 				out.append(patient + "\t" + sif + "\t"+mapSIF.get(sif).size() + "\t" + clinInfo.getOverall_Survival() +"\t" + clinInfo.getTMB_Score());
 				out.append("\n");
 			}
+			
+			System.out.println(sif + "\t"+patient_os.size() + "\t"+ calcSD(patient_os) + "\t" + calcMean(patient_os)+ "\t"+ calcSD(patient_tmb) + "\t" + calcMean(patient_tmb) + "\t"+ patient_os.toString() + "\t"+ patient_tmb.toString());
 		}
 
 		out.close();
 	}
+
+	private static double calcSD(List<Double> patient_os) {
+		double sum = 0.0, standardDeviation = 0.0;
+		int length = patient_os.size();
+
+		for(double num : patient_os) {
+			sum += num;
+		}
+
+		double mean = sum/length;
+
+		for(double num: patient_os) {
+			standardDeviation += Math.pow(num - mean, 2);
+		}
+
+		return Math.sqrt(standardDeviation/length);
+	}
+
+	private static double calcMean(List<Double> patient_os) {
+		double avg = 0.0;
+		
+		for(double os : patient_os)	{
+			avg += os;
+		}
+		
+		return avg / patient_os.size();
+	}
+	
+	
 }

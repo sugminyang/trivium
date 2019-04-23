@@ -105,10 +105,10 @@ public class PathwayCommonsExtractor {
 				String source = data.get("source").getAsString();
 				String target = data.get("target").getAsString();
 				out.write(patient +"\t"+source + " " + type + " " + target + "\n");
-				System.out.println(patient +"\t"+source + " " + type + " " + target);
+//				System.out.println(patient +"\t"+source + " " + type + " " + target);
 			}
 		}
-		System.out.println();
+//		System.out.println();
 	}
 
 }
