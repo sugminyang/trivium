@@ -63,6 +63,55 @@ public class CalculatorSIF {
 
 		writeResultBySIF(mapSIF,outputFile,mapMutProfile);
 		writeResultByCytoscape(mapSIF,outputFile);
+		writeResultBySharm(mapSIF,outputFile);
+		
+		
+	}
+
+	private static void writeResultBySharm(Map<String, List<String>> mapSIF, String outputFile) throws IOException {
+		outputFile = outputFile.replace(".txt","_sharm.txt");
+		BufferedWriter out = new BufferedWriter(new FileWriter(outputFile));
+		
+		
+		out.append("patient_id\tsifs\n");
+		Map<String, List<String>> patients = pivotData(mapSIF);
+		
+		for(String pat : patients.keySet())	{
+			System.out.print(pat + "\t");
+			out.append(pat + "\t");
+			for(String sif : patients.get(pat)) {
+				System.out.print(sif + "\t");
+				out.append(sif + "\t");
+			}
+			System.out.println();
+			out.append("\n");
+		}
+
+		out.close();
+	}
+
+	private static Map<String, List<String>> pivotData(Map<String, List<String>> mapSIF) {
+		Map<String, List<String>> patients = new HashMap<>();
+
+		for(String sif : mapSIF.keySet())	{
+
+			for(String patient : mapSIF.get(sif)) {
+				
+				if(patients.containsKey(patient))	{	//exist
+					List<String> temp = patients.get(patient);
+					temp.add(sif);
+					
+					patients.put(patient,temp);
+				}
+				else	{	//dose not exist
+					List<String> temp = new ArrayList<>();
+					temp.add(sif);
+					
+					patients.put(patient,temp);
+				}
+			}
+		}
+		return patients;
 	}
 
 	private static void writeResultByCytoscape(Map<String, List<String>> mapSIF, String outputFile) throws IOException {

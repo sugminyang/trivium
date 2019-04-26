@@ -21,11 +21,15 @@ public class SIFExtractor {
 		
 //		String mutationProfilePath = "./pathwaycommons/M_Breast_mutation_profile.txt";
 //		String enrichmentProfilePath = "./pathwaycommons/M_Breast_enrichment.txt";
-//		String output = "./pathwaycommons/output/output_M_breast_0423.txt";
+//		String output = "./pathwaycommons/output/output_M_breast.txt";
 
-		String mutationProfilePath = "./pathwaycommons/P_Breast_mutation_profile.txt";
-		String enrichmentProfilePath = "./pathwaycommons/P_Breast_enrichment.txt";
-		String output = "./pathwaycommons/output/output_P_breast.txt";
+//		String mutationProfilePath = "./pathwaycommons/P_Breast_mutation_profile.txt";
+//		String enrichmentProfilePath = "./pathwaycommons/P_Breast_enrichment.txt";
+//		String output = "./pathwaycommons/output/output_P_breast.txt";
+		
+		String mutationProfilePath = "./pathwaycommons/P_Glioma_mutation_profile.txt";
+		String enrichmentProfilePath = "./pathwaycommons/P_Glioma_enrichment_profile.txt";
+		String output = "./pathwaycommons/output/output_P_Glioma.txt";
 		
 		Map<String, LinkedHashSet<String>> mapGenebyPatient = new HashMap<String,LinkedHashSet<String>>();
 		

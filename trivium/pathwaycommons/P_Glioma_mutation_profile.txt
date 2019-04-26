@@ -1,0 +1,979 @@
+Patient ID	Overall Survival (Months)	TMB Score	Cancer Type	Cancer Type Detailed	Oncotree Code	Sample Type	Drug Type	Primary Tumor Site	Variant_Type	Hugo_Symbol
+P-0016691	13	1.76	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	DEL	PTEN
+P-0016691	13	1.76	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0016691	13	1.76	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	EGFR-intragenic	EGFR
+P-0016256	5	4.39	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	EGFR
+P-0016256	5	4.39	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	MET
+P-0016256	5	4.39	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PTEN
+P-0016256	5	4.39	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TCF7L2
+P-0016256	5	4.39	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0016256	5	4.39	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	EGFR-intragenic	EGFR
+P-0016256	5	4.39	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SEPT14-EGFR fusion	EGFR
+P-0016256	5	4.39	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SEPT14-EGFR fusion	43722
+P-0016238	23	2.63	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	DEL	PTEN
+P-0016238	23	2.63	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	EPHA5
+P-0016238	23	2.63	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0016238	23	2.63	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	FGFR3-TACC3 fusion	FGFR3
+P-0016238	23	2.63	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	FGFR3-TACC3 fusion	TACC3
+P-0016238	23	2.63	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	MTOR-C1orf127 fusion	C1orf127
+P-0016238	23	2.63	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	MTOR-C1orf127 fusion	MTOR
+P-0016048	12	4.39	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	INS	ATRX
+P-0016048	12	4.39	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	FGFR1
+P-0016048	12	4.39	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	H3F3A
+P-0016048	12	4.39	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	NF1
+P-0016048	12	4.39	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TP53
+P-0016048	12	4.39	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SCFD2-PHOX2B fusion	PHOX2B
+P-0016048	12	4.39	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SCFD2-PHOX2B fusion	SCFD2
+P-0015603	14	4.39	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	INS	PTEN
+P-0015603	14	4.39	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	EGFR
+P-0015603	14	4.39	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	SYK
+P-0015603	14	4.39	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0015603	14	4.39	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TNFRSF14
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	DEL	PBRM1
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	DEL	PTEN
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	DEL	TSC2
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	ALK
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	AR
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	ARID2
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	ATRX
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	AURKB
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	AXIN2
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	AXIN2
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	BRCA1
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	CARD11
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	CYLD
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	DIS3
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	EGFR
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	EP300
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	EPAS1
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	EPHA7
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	ERBB3
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	FANCA
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	FAT1
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	FBXW7
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	FLT4
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	FLT4
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	IFNGR1
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	IL10
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	INPP4A
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	IRS1
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	JAK2
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	JAK2
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	KDM5A
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	MGA
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	KMT2B
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	KMT2B
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	KMT2B
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	KMT2C
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	KMT2D
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	MST1R
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	NF1
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	NOTCH1
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	NOTCH4
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	NOTCH4
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PDGFRA
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PLK2
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PTPRS
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	RAD51D
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	RB1
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	REL
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	RPTOR
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	RTEL1
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	SLX4
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	SMARCA4
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	SPEN
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	STAG2
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TET1
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TET2
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TP53
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	U2AF1
+P-0015573	8	52.66	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	ZFHX3
+P-0015369	0	1.76	Glioma	Glioblastoma	GB	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0015369	0	1.76	Glioma	Glioblastoma	GB	Primary	PD-1/PDL-1	Brain	SNP	TNFAIP3
+P-0015369	0	1.76	Glioma	Glioblastoma	GB	Primary	PD-1/PDL-1	Brain	EGFR-intragenic	EGFR
+P-0015346	8	2.63	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	RB1
+P-0015346	8	2.63	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0015346	8	2.63	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TP53
+P-0015289	16	2.63	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	ATRX
+P-0015289	16	2.63	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	IDH1
+P-0015289	16	2.63	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TP53
+P-0014677	17	2.63	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	POLE
+P-0014677	17	2.63	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PTPN11
+P-0014677	17	2.63	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0014220	14	5.27	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	DEL	PIK3R1
+P-0014220	14	5.27	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	CBL
+P-0014220	14	5.27	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	ERBB4
+P-0014220	14	5.27	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PTPRT
+P-0014220	14	5.27	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	SPEN
+P-0014220	14	5.27	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0014099	6	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	DEL	BLM
+P-0014099	6	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PTEN
+P-0014099	6	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	SOCS1
+P-0014099	6	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0014099	6	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	CNTNAP2-IKZF1 fusion	CNTNAP2
+P-0014099	6	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	CNTNAP2-IKZF1 fusion	IKZF1
+P-0014071	6	5.9	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	ESR1
+P-0014071	6	5.9	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PIK3R1
+P-0014071	6	5.9	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0014071	6	5.9	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0014071	6	5.9	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TP53
+P-0014071	6	5.9	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TP53
+P-0014071	6	5.9	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	PDGFRA-intragenic	PDGFRA
+P-0014006	18	1.97	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	EGFR
+P-0014006	18	1.97	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0014006	18	1.97	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	EGFR-intragenic	EGFR
+P-0013938	21	1.97	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0013938	21	1.97	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TP63
+P-0013814	15	5.9	Glioma	Astrocytoma	ASTR	Primary	PD-1/PDL-1	Brain	DEL	ARID5B
+P-0013814	15	5.9	Glioma	Astrocytoma	ASTR	Primary	PD-1/PDL-1	Brain	DEL	NF1
+P-0013814	15	5.9	Glioma	Astrocytoma	ASTR	Primary	PD-1/PDL-1	Brain	SNP	CBL
+P-0013814	15	5.9	Glioma	Astrocytoma	ASTR	Primary	PD-1/PDL-1	Brain	SNP	GRIN2A
+P-0013814	15	5.9	Glioma	Astrocytoma	ASTR	Primary	PD-1/PDL-1	Brain	SNP	JAK3
+P-0013814	15	5.9	Glioma	Astrocytoma	ASTR	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0013603	15	1.97	Glioma	"High-Grade Glioma, NOS"	HGGNOS	Primary	PD-1/PDL-1	Brain	SNP	NF1
+P-0013603	15	1.97	Glioma	"High-Grade Glioma, NOS"	HGGNOS	Primary	PD-1/PDL-1	Brain	SNP	PTPN11
+P-0013544	13	4.39	Glioma	"High-Grade Glioma, NOS"	HGGNOS	Metastasis	PD-1/PDL-1	Brain	SNP	ARID1B
+P-0013544	13	4.39	Glioma	"High-Grade Glioma, NOS"	HGGNOS	Metastasis	PD-1/PDL-1	Brain	SNP	ERG
+P-0013544	13	4.39	Glioma	"High-Grade Glioma, NOS"	HGGNOS	Metastasis	PD-1/PDL-1	Brain	SNP	KIT
+P-0013544	13	4.39	Glioma	"High-Grade Glioma, NOS"	HGGNOS	Metastasis	PD-1/PDL-1	Brain	SNP	REL
+P-0013544	13	4.39	Glioma	"High-Grade Glioma, NOS"	HGGNOS	Metastasis	PD-1/PDL-1	Brain	SNP	TERT
+P-0013544	13	4.39	Glioma	"High-Grade Glioma, NOS"	HGGNOS	Metastasis	PD-1/PDL-1	Brain	EGFR-intragenic	EGFR
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	INS	ATR
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	ALK
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	ANKRD11
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	ARAF
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	AXL
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	BCL6
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	BRCA1
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	BRIP1
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	CARD11
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	CD276
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	CIC
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	DNMT3B
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	DOT1L
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	EGFR
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	EP300
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	EP300
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	ERCC5
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	FAT1
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	FGF4
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	FOXA1
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	FOXO1
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	FOXP1
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	GNAQ
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	HIST3H3
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	IKZF1
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	INSR
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	IRS1
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	JAK1
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	KDM6A
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	KDM6A
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	MDM2
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	MLL2
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	MLL3
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	MLL3
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	MSH6
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	MSH6
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	MTOR
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	MUTYH
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	NCOR1
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	NF1
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	NOTCH3
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	PIM1
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	PLCG2
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	PMAIP1
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	PTEN
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	RB1
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	RECQL4
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	RIT1
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	SETD2
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	SMAD3
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	SMARCA4
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	SMARCD1
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	SOX2
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	SPEN
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	STAG2
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	STAT5A
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	TERT
+P-0013506	8	57.06	Glioma	Glioblastoma Multiforme	GBM	Metastasis	PD-1/PDL-1	Brain	SNP	TSHR
+P-0013380	17	2.95	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	DEL	PTEN
+P-0013380	17	2.95	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	ERG
+P-0013380	17	2.95	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0013360	13	4.92	Glioma	"High-Grade Glioma, NOS"	HGGNOS	Primary	PD-1/PDL-1	Brain	DEL	ATRX
+P-0013360	13	4.92	Glioma	"High-Grade Glioma, NOS"	HGGNOS	Primary	PD-1/PDL-1	Brain	DEL	NF1
+P-0013360	13	4.92	Glioma	"High-Grade Glioma, NOS"	HGGNOS	Primary	PD-1/PDL-1	Brain	SNP	CDKN2C
+P-0013360	13	4.92	Glioma	"High-Grade Glioma, NOS"	HGGNOS	Primary	PD-1/PDL-1	Brain	SNP	NF1
+P-0013360	13	4.92	Glioma	"High-Grade Glioma, NOS"	HGGNOS	Primary	PD-1/PDL-1	Brain	SNP	PTEN
+P-0013347	14	6.89	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	DEL	PDGFRA
+P-0013347	14	6.89	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	CDKN2B
+P-0013347	14	6.89	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PDGFRA
+P-0013347	14	6.89	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	SYK
+P-0013347	14	6.89	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0013347	14	6.89	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TP53
+P-0013347	14	6.89	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TP53
+P-0013294	4	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	ERCC5
+P-0013294	4	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PAX5
+P-0013294	4	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PTEN
+P-0013294	4	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0013259	13	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	DEL	CREBBP
+P-0013259	13	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	INS	PTEN
+P-0013259	13	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	EGFR
+P-0013259	13	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0013243	8	5.9	Glioma	Oligodendroglioma	ODG	Primary	PD-1/PDL-1	Brain	DEL	ARID2
+P-0013243	8	5.9	Glioma	Oligodendroglioma	ODG	Primary	PD-1/PDL-1	Brain	SNP	CIC
+P-0013243	8	5.9	Glioma	Oligodendroglioma	ODG	Primary	PD-1/PDL-1	Brain	SNP	IDH1
+P-0013243	8	5.9	Glioma	Oligodendroglioma	ODG	Primary	PD-1/PDL-1	Brain	SNP	NOTCH1
+P-0013243	8	5.9	Glioma	Oligodendroglioma	ODG	Primary	PD-1/PDL-1	Brain	SNP	NOTCH1
+P-0013243	8	5.9	Glioma	Oligodendroglioma	ODG	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0013204	15	4.92	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	CRLF2
+P-0013204	15	4.92	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	NF1
+P-0013204	15	4.92	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PTPN11
+P-0013204	15	4.92	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	SUZ12
+P-0013204	15	4.92	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0013204	15	4.92	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	ERRFI1-CAMTA1 fusion	CAMTA1
+P-0013204	15	4.92	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	ERRFI1-CAMTA1 fusion	ERRFI1
+P-0013029	3	30.5	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	INS	ATRX
+P-0013029	3	30.5	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	AMER1
+P-0013029	3	30.5	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	ANKRD11
+P-0013029	3	30.5	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	ARID1B
+P-0013029	3	30.5	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	ATM
+P-0013029	3	30.5	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	AURKA
+P-0013029	3	30.5	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	CREBBP
+P-0013029	3	30.5	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	CTLA4
+P-0013029	3	30.5	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	EIF1AX
+P-0013029	3	30.5	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	FANCA
+P-0013029	3	30.5	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	FLT3
+P-0013029	3	30.5	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	HIST1H3C
+P-0013029	3	30.5	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	IDH1
+P-0013029	3	30.5	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	IKZF1
+P-0013029	3	30.5	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	KMT2A
+P-0013029	3	30.5	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	MSH6
+P-0013029	3	30.5	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	MSH6
+P-0013029	3	30.5	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	MSH6
+P-0013029	3	30.5	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	NF1
+P-0013029	3	30.5	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	NF1
+P-0013029	3	30.5	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	NOTCH2
+P-0013029	3	30.5	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	NSD1
+P-0013029	3	30.5	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	NTRK1
+P-0013029	3	30.5	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	PGR
+P-0013029	3	30.5	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	PIK3CA
+P-0013029	3	30.5	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	PTPRS
+P-0013029	3	30.5	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	SETD2
+P-0013029	3	30.5	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	TET1
+P-0013029	3	30.5	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	TET2
+P-0013029	3	30.5	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	TET2
+P-0013029	3	30.5	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	TP53
+P-0012687	10	4.92	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	DEL	PTEN
+P-0012687	10	4.92	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	DEL	RB1
+P-0012687	10	4.92	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	IRS1
+P-0012687	10	4.92	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0012687	10	4.92	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TP53
+P-0011401	19	2.95	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	ATRX
+P-0011401	19	2.95	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PPP2R1A
+P-0011401	19	2.95	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PTEN
+P-0011219	13	4.92	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	DEL	MDC1
+P-0011219	13	4.92	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	CDKN2C
+P-0011219	13	4.92	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	EGFR
+P-0011219	13	4.92	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	FLT3
+P-0011219	13	4.92	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0011219	13	4.92	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	EGFR-intragenic	EGFR
+P-0011219	13	4.92	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	RNF11-CDKN2C fusion	CDKN2C
+P-0011219	13	4.92	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	RNF11-CDKN2C fusion	RNF11
+P-0011119	20	1.97	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0011119	20	1.97	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TSC1
+P-0011119	20	1.97	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	EGFR-intragenic	EGFR
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	DEL	MSH6
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	INS	VHL
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	ALK
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	ALK
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	ALOX12B
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	ANKRD11
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	ANKRD11
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	ARID2
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	AXIN1
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	BRCA1
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	BRCA1
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	BRCA2
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	BRCA2
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	CDH1
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	CHEK2
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	CIC
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	CIC
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	CIC
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	CREBBP
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	CREBBP
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	DAXX
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	DDR2
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	DNMT1
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	DNMT1
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	DNMT3A
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	DOT1L
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	ERCC3
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	FAT1
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	FGF3
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	FGFR1
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	FGFR4
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	FLT4
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	FOXA1
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	HGF
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	HGF
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	HIST1H3D
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	HIST3H3
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	IDH1
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	IKZF1
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	INSR
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	INSR
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	IRF4
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	IRS2
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	KDM5C
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	KEAP1
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	LATS1
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	LATS2
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	MAP3K1
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	MAP3K13
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	MDC1
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	KMT2A
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	KMT2B
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	KMT2B
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	KMT2B
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	KMT2C
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	KMT2C
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	MPL
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	MRE11
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	MSH6
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	MST1R
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	MYCL
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	MYD88
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	MYD88
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	MYOD1
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	NF1
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	NFE2L2
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	NOTCH1
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	NOTCH2
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	NSD1
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	NSD1
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	PARP1
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	PARP1
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	PBRM1
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	PDGFRA
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	PIK3CD
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	PMS1
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	PMS1
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	PTPN11
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	PTPRD
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	RAD51B
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	RECQL4
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	RECQL4
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	RECQL4
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	ROS1
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	RPS6KB2
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	SDHA
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	SETD2
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	SOX17
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	STAT3
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	STK11
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	TET1
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	TET1
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	TET1
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	TET2
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	TGFBR2
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	TNFAIP3
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	TP53
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	TP53
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	TSC1
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	ZFHX3
+P-0010744	5	100.35	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	ZFHX3
+P-0010613	3	9.84	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	DEL	TP53
+P-0010613	3	9.84	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	AR
+P-0010613	3	9.84	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	BRCA2
+P-0010613	3	9.84	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	BRCA2
+P-0010613	3	9.84	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	EGFR
+P-0010613	3	9.84	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PIK3C2G
+P-0010613	3	9.84	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PIK3CG
+P-0010613	3	9.84	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PIK3CG
+P-0010613	3	9.84	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	RASA1
+P-0010613	3	9.84	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0010613	3	9.84	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	CLYBL-BRCA2 fusion	BRCA2
+P-0010613	3	9.84	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	CLYBL-BRCA2 fusion	CLYBL
+P-0010556	15	0.98	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PIK3C2G
+P-0010556	15	0.98	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	ZNF710-NTRK3 fusion	NTRK3
+P-0010556	15	0.98	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	ZNF710-NTRK3 fusion	ZNF710
+P-0010516	22	2.95	Glioma	Astrocytoma	ASTR	Primary	PD-1/PDL-1	Brain	SNP	ATRX
+P-0010516	22	2.95	Glioma	Astrocytoma	ASTR	Primary	PD-1/PDL-1	Brain	SNP	IDH1
+P-0010516	22	2.95	Glioma	Astrocytoma	ASTR	Primary	PD-1/PDL-1	Brain	SNP	TP53
+P-0010380	5	6.89	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	ATRX
+P-0010380	5	6.89	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	MST1R
+P-0010380	5	6.89	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PTEN
+P-0010380	5	6.89	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	RB1
+P-0010380	5	6.89	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	SETD2
+P-0010380	5	6.89	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0010380	5	6.89	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TP53
+P-0010344	2	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	ALK
+P-0010344	2	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	ATM
+P-0010344	2	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	RUNX1
+P-0010344	2	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0010344	2	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	EGFR-intragenic	EGFR
+P-0010004	9	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	EGFR
+P-0010004	9	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PGR
+P-0010004	9	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PIK3CG
+P-0010004	9	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0010004	9	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	EGFR-intragenic	EGFR
+P-0009790	16	2.95	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	DEL	ARID1B
+P-0009790	16	2.95	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PTEN
+P-0009790	16	2.95	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0009711	22	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	EGFR
+P-0009711	22	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	GRIN2A
+P-0009711	22	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0009711	22	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TP53
+P-0009711	22	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	EGFR-intragenic	EGFR
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	DEL	ARID2
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	DEL	ATRX
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	INS	TP53
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	ARID2
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	ARID2
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	ARID5B
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	ATR
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	ATRX
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	ATRX
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	BCOR
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	BRAF
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	BRCA2
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	CCND2
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	DDR2
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	DNMT1
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	HNF1A
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	IDH1
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	IGF2
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	KDM5A
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	KIT
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	MDM4
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	MITF
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	KMT2C
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	MSH6
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	NF1
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	NF1
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	NF1
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	NF1
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	NOTCH2
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	PBRM1
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	PIK3CB
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	PIK3CD
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	PLCG2
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	PLK2
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	PMS1
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	PPP6C
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	RAF1
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	RASA1
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	RNF43
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	RNF43
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	SETD2
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	SMAD3
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	SMARCA4
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	SPEN
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	SPEN
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	SRC
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	SUFU
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	SUZ12
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	TET2
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	TSC2
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	TSHR
+P-0009499	5	51.16	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	ZFHX3
+P-0009453	7	3.94	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	INHBA
+P-0009453	7	3.94	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	MET
+P-0009453	7	3.94	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	PGR
+P-0009453	7	3.94	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0009451	13	5.9	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	ATRX
+P-0009451	13	5.9	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	EGFR
+P-0009451	13	5.9	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	EGFR
+P-0009451	13	5.9	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PAX5
+P-0009451	13	5.9	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PTEN
+P-0009451	13	5.9	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0009451	13	5.9	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	EGFR-intragenic	EGFR
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	DEL	NOTCH2
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	DEL	PMS1
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	INS	CIC
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	INS	NOTCH1
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	ALK
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	ARAF
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	ARID2
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	ATRX
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	ATRX
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	AXIN2
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	AXL
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	BCOR
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	BCOR
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	BRD4
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	CD276
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	CHEK1
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	DNMT1
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	EPHA3
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	ERCC4
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	EZH2
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	FANCC
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	FAT1
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	FAT1
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	FUBP1
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	GRIN2A
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	IDH1
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	INSR
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	IRS2
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	KIT
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	MAP2K1
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	MAP3K1
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	MCL1
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	MED12
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	MGA
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	MLL2
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	MLL2
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	KMT2B
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	MSH6
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	NCOR1
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	NEGR1
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	NF2
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	NOTCH1
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	NOTCH4
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	PIK3R1
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	PIK3R1
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	PIM1
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	PTPRS
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	ROS1
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	RPS6KB2
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	SETD2
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	SMAD4
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	SMARCB1
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	SMARCD1
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	SOCS1
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	STK40
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	TBX3
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	TNFAIP3
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	TP53
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	TP53
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	TRAF7
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	TSHR
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	ZFHX3
+P-0009411	21	62.96	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	ZFHX3
+P-0009365	9	4.92	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	ASXL2
+P-0009365	9	4.92	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PTEN
+P-0009365	9	4.92	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0009365	9	4.92	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TP53
+P-0009365	9	4.92	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TP53
+P-0009119	18	7.87	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	DEL	TP53
+P-0009119	18	7.87	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	INS	NF1
+P-0009119	18	7.87	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	LATS1
+P-0009119	18	7.87	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	NOTCH3
+P-0009119	18	7.87	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	NOTCH4
+P-0009119	18	7.87	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PIK3CA
+P-0009119	18	7.87	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	SOX17
+P-0009119	18	7.87	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0008939	15	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	DEL	NF1
+P-0008939	15	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	DEL	NF1
+P-0008939	15	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	EPHA3
+P-0008939	15	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0008939	15	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	PIK3CD-CAMTA1 fusion	CAMTA1
+P-0008939	15	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	PIK3CD-CAMTA1 fusion	PIK3CD
+P-0008382	0	8.85	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	DEL	ATRX
+P-0008382	0	8.85	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	DEL	FAT1
+P-0008382	0	8.85	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	DEL	PTEN
+P-0008382	0	8.85	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	ARID1A
+P-0008382	0	8.85	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	FLT1
+P-0008382	0	8.85	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	HIST1H1C
+P-0008382	0	8.85	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	IDH1
+P-0008382	0	8.85	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	NOTCH4
+P-0008382	0	8.85	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TP53
+P-0008382	0	8.85	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	CNTN5-EED fusion	CNTN5
+P-0008382	0	8.85	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	CNTN5-EED fusion	EED
+P-0008382	0	8.85	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	ZNF222-CCNE1 fusion	CCNE1
+P-0008382	0	8.85	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	ZNF222-CCNE1 fusion	ZNF222
+P-0008380	10	2.95	Glioma	Gliosarcoma	GSARC	Primary	PD-1/PDL-1	Brain	SNP	PTEN
+P-0008380	10	2.95	Glioma	Gliosarcoma	GSARC	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0008380	10	2.95	Glioma	Gliosarcoma	GSARC	Primary	PD-1/PDL-1	Brain	SNP	TP53
+P-0008258	2	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	DEL	PIK3R1
+P-0008258	2	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	EGFR
+P-0008258	2	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PIK3R1
+P-0008258	2	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0008258	2	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	EGFR-intragenic	EGFR
+P-0008257	10	7.87	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	DEL	STAG2
+P-0008257	10	7.87	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	INS	EGFR
+P-0008257	10	7.87	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	CARD11
+P-0008257	10	7.87	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	EGFR
+P-0008257	10	7.87	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	NOTCH3
+P-0008257	10	7.87	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PTEN
+P-0008257	10	7.87	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	RUNX1
+P-0008257	10	7.87	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0008257	10	7.87	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	EGFR-intragenic	EGFR
+P-0008166	16	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	MDM2
+P-0008166	16	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	MED12
+P-0008166	16	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	MITF
+P-0008166	16	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0008166	16	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	EGFR-intragenic	EGFR
+P-0007917	12	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	ARID2
+P-0007917	12	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PTEN
+P-0007917	12	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0007917	12	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TSC2
+P-0007917	12	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	FAM175A-CST7 fusion	CST7
+P-0007917	12	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	FAM175A-CST7 fusion	ABRAXAS1
+P-0007693	17	5.9	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	HNF1A
+P-0007693	17	5.9	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	NF1
+P-0007693	17	5.9	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	NF1
+P-0007693	17	5.9	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PTEN
+P-0007693	17	5.9	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TP53
+P-0007693	17	5.9	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TP53
+P-0007504	16	2.95	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	EGFR
+P-0007504	16	2.95	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PTPN11
+P-0007504	16	2.95	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0007504	16	2.95	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	EGFR-intragenic	EGFR
+P-0007314	9	0.98	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0007314	9	0.98	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	EGFR-intragenic	EGFR
+P-0007124	2	4.92	Glioma	"Low-Grade Glioma, NOS"	LGGNOS	Primary	PD-1/PDL-1	Brain	DEL	PDGFRA
+P-0007124	2	4.92	Glioma	"Low-Grade Glioma, NOS"	LGGNOS	Primary	PD-1/PDL-1	Brain	DNP	ATRX
+P-0007124	2	4.92	Glioma	"Low-Grade Glioma, NOS"	LGGNOS	Primary	PD-1/PDL-1	Brain	SNP	NF1
+P-0007124	2	4.92	Glioma	"Low-Grade Glioma, NOS"	LGGNOS	Primary	PD-1/PDL-1	Brain	SNP	TP53
+P-0007124	2	4.92	Glioma	"Low-Grade Glioma, NOS"	LGGNOS	Primary	PD-1/PDL-1	Brain	SNP	TP53
+P-0007104	15	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PDGFRA
+P-0007104	15	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PDGFRA
+P-0007104	15	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	SOX17
+P-0007104	15	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TP53
+P-0007010	5	0.98	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	DEL	NF1
+P-0006970	12	4.92	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	ATRX
+P-0006970	12	4.92	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PTEN
+P-0006970	12	4.92	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	RB1
+P-0006970	12	4.92	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TP53
+P-0006970	12	4.92	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TSC2
+P-0006848	10	6.89	Glioma	Gliosarcoma	GSARC	Primary	PD-1/PDL-1	Brain	DEL	TP63
+P-0006848	10	6.89	Glioma	Gliosarcoma	GSARC	Primary	PD-1/PDL-1	Brain	SNP	MED12
+P-0006848	10	6.89	Glioma	Gliosarcoma	GSARC	Primary	PD-1/PDL-1	Brain	SNP	NF1
+P-0006848	10	6.89	Glioma	Gliosarcoma	GSARC	Primary	PD-1/PDL-1	Brain	SNP	PGR
+P-0006848	10	6.89	Glioma	Gliosarcoma	GSARC	Primary	PD-1/PDL-1	Brain	SNP	PTEN
+P-0006848	10	6.89	Glioma	Gliosarcoma	GSARC	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0006848	10	6.89	Glioma	Gliosarcoma	GSARC	Primary	PD-1/PDL-1	Brain	SNP	TP53
+P-0006672	7	5.9	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	NF1
+P-0006672	7	5.9	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PDGFRB
+P-0006672	7	5.9	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PIK3CA
+P-0006672	7	5.9	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PLCG2
+P-0006672	7	5.9	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PTPN11
+P-0006672	7	5.9	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0006667	5	3.94	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	CUL3
+P-0006667	5	3.94	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	PTEN
+P-0006667	5	3.94	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	SOX17
+P-0006667	5	3.94	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0006667	5	3.94	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	EGFR-intragenic	EGFR
+P-0006667	5	3.94	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	MGA-C15orf54 fusion	C15orf54
+P-0006667	5	3.94	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	MGA-C15orf54 fusion	MGA
+P-0006546	32	6.89	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	DEL	ATRX
+P-0006546	32	6.89	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	DEL	CDKN1B
+P-0006546	32	6.89	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	DEL	RB1
+P-0006546	32	6.89	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	ARID2
+P-0006546	32	6.89	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	IDH1
+P-0006546	32	6.89	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	RPTOR
+P-0006546	32	6.89	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TP53
+P-0006545	4	4.92	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	DEL	TP53
+P-0006545	4	4.92	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	ATRX
+P-0006545	4	4.92	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	H3F3A
+P-0006545	4	4.92	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	MYCN
+P-0006545	4	4.92	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TP53
+P-0006500	5	5.9	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	DEL	FLT1
+P-0006500	5	5.9	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	FLT4
+P-0006500	5	5.9	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	FLT4
+P-0006500	5	5.9	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PTEN
+P-0006500	5	5.9	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0006500	5	5.9	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	WT1
+P-0006500	5	5.9	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	EGFR-intragenic	EGFR
+P-0006441	8	4.92	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	INS	PIK3R1
+P-0006441	8	4.92	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	EGFR
+P-0006441	8	4.92	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	RB1
+P-0006441	8	4.92	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0006441	8	4.92	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TP53
+P-0006428	2	7.87	Glioma	Astrocytoma	ASTR	Primary	PD-1/PDL-1	Brain	DEL	BCOR
+P-0006428	2	7.87	Glioma	Astrocytoma	ASTR	Primary	PD-1/PDL-1	Brain	DEL	EZH2
+P-0006428	2	7.87	Glioma	Astrocytoma	ASTR	Primary	PD-1/PDL-1	Brain	DEL	NF1
+P-0006428	2	7.87	Glioma	Astrocytoma	ASTR	Primary	PD-1/PDL-1	Brain	DEL	NOTCH1
+P-0006428	2	7.87	Glioma	Astrocytoma	ASTR	Primary	PD-1/PDL-1	Brain	INS	NOTCH1
+P-0006428	2	7.87	Glioma	Astrocytoma	ASTR	Primary	PD-1/PDL-1	Brain	SNP	ANKRD11
+P-0006428	2	7.87	Glioma	Astrocytoma	ASTR	Primary	PD-1/PDL-1	Brain	SNP	FBXW7
+P-0006428	2	7.87	Glioma	Astrocytoma	ASTR	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0006416	22	2.95	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	CDH1
+P-0006416	22	2.95	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PTEN
+P-0006416	22	2.95	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0006416	22	2.95	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	EGFR-intragenic	EGFR
+P-0006045	20	2.95	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	DEL	DNAJB1
+P-0006045	20	2.95	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	NEGR1
+P-0006045	20	2.95	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0006045	20	2.95	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	EGFR-intragenic	EGFR
+P-0005963	3	2.95	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	BCOR
+P-0005963	3	2.95	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0005963	3	2.95	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TP53
+P-0005963	3	2.95	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	EGFR-intragenic	EGFR
+P-0005929	15	5.9	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	EGFR
+P-0005929	15	5.9	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	JAK3
+P-0005929	15	5.9	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	MED12
+P-0005929	15	5.9	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PIK3R1
+P-0005929	15	5.9	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	SH2B3
+P-0005929	15	5.9	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	SOX17
+P-0005912	29	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	BIRC3
+P-0005912	29	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PTEN
+P-0005912	29	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0005912	29	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TP53
+P-0005912	29	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	EGFR-intragenic	EGFR
+P-0005882	5	2.95	Glioma	"High-Grade Glioma, NOS"	HGGNOS	Primary	PD-1/PDL-1	Brain	SNP	MET
+P-0005882	5	2.95	Glioma	"High-Grade Glioma, NOS"	HGGNOS	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0005882	5	2.95	Glioma	"High-Grade Glioma, NOS"	HGGNOS	Primary	PD-1/PDL-1	Brain	SNP	TP53
+P-0005635	1	5.9	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	INS	ATRX
+P-0005635	1	5.9	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	DNMT3A
+P-0005635	1	5.9	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	IDH1
+P-0005635	1	5.9	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	INHBA
+P-0005635	1	5.9	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0005635	1	5.9	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TP53
+P-0005539	8	2.95	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	BTK
+P-0005539	8	2.95	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	FLT1
+P-0005539	8	2.95	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0005539	8	2.95	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	EGFR-intragenic	EGFR
+P-0005361	25	3.94	Glioma	"High-Grade Glioma, NOS"	HGGNOS	Primary	PD-1/PDL-1	Brain	SNP	EP300
+P-0005361	25	3.94	Glioma	"High-Grade Glioma, NOS"	HGGNOS	Primary	PD-1/PDL-1	Brain	SNP	PTEN
+P-0005361	25	3.94	Glioma	"High-Grade Glioma, NOS"	HGGNOS	Primary	PD-1/PDL-1	Brain	SNP	PTPN11
+P-0005361	25	3.94	Glioma	"High-Grade Glioma, NOS"	HGGNOS	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0005361	25	3.94	Glioma	"High-Grade Glioma, NOS"	HGGNOS	Primary	PD-1/PDL-1	Brain	FGFR3-TACC3 fusion	FGFR3
+P-0005361	25	3.94	Glioma	"High-Grade Glioma, NOS"	HGGNOS	Primary	PD-1/PDL-1	Brain	FGFR3-TACC3 fusion	TACC3
+P-0005361	25	3.94	Glioma	"High-Grade Glioma, NOS"	HGGNOS	Primary	PD-1/PDL-1	Brain	TLL1-POLE fusion	POLE
+P-0005361	25	3.94	Glioma	"High-Grade Glioma, NOS"	HGGNOS	Primary	PD-1/PDL-1	Brain	TLL1-POLE fusion	TLL1
+P-0005254	5	1.97	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	NF1
+P-0005254	5	1.97	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0005141	33	1.97	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PIK3R1
+P-0005141	33	1.97	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0004971	17	4.92	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	DEL	KDM5A
+P-0004971	17	4.92	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	EGFR
+P-0004971	17	4.92	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	NOTCH4
+P-0004971	17	4.92	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	RB1
+P-0004971	17	4.92	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0004857	33	4.92	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	DEL	NF1
+P-0004857	33	4.92	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	IDH1
+P-0004857	33	4.92	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	MAP3K1
+P-0004857	33	4.92	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PIK3CA
+P-0004857	33	4.92	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0004812	21	3.94	Glioma	"High-Grade Glioma, NOS"	HGGNOS	Primary	PD-1/PDL-1	Brain	DEL	TSC1
+P-0004812	21	3.94	Glioma	"High-Grade Glioma, NOS"	HGGNOS	Primary	PD-1/PDL-1	Brain	SNP	CIC
+P-0004812	21	3.94	Glioma	"High-Grade Glioma, NOS"	HGGNOS	Primary	PD-1/PDL-1	Brain	SNP	IDH1
+P-0004812	21	3.94	Glioma	"High-Grade Glioma, NOS"	HGGNOS	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0004778	16	0.98	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	NF1
+P-0004778	16	0.98	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	TRAF7-intragenic	TRAF7
+P-0004259	2	5.9	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	DEL	ATRX
+P-0004259	2	5.9	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	DEL	PDGFRA
+P-0004259	2	5.9	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	ATR
+P-0004259	2	5.9	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	IDH1
+P-0004259	2	5.9	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	TP53
+P-0004259	2	5.9	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	TP53
+P-0004256	7	3.94	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	DEL	ALK
+P-0004256	7	3.94	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	DEL	ATRX
+P-0004256	7	3.94	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	INS	TP53
+P-0004256	7	3.94	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	IDH1
+P-0003865	6	7.87	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	DEL	ERBB3
+P-0003865	6	7.87	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	DEL	TP53
+P-0003865	6	7.87	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	DNP	FBXW7
+P-0003865	6	7.87	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	ACVR1
+P-0003865	6	7.87	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	AURKB
+P-0003865	6	7.87	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PIK3CA
+P-0003865	6	7.87	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	RB1
+P-0003865	6	7.87	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0003783	13	2.95	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	EGFR
+P-0003783	13	2.95	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	NCOA3
+P-0003783	13	2.95	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0003783	13	2.95	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	EGFR-intragenic	EGFR
+P-0003598	6	1.97	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	GLI1
+P-0003598	6	1.97	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0003567	12	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	NF1
+P-0003567	12	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PBRM1
+P-0003567	12	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PTEN
+P-0003567	12	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0003456	9	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	EGFR
+P-0003456	9	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	EGFR
+P-0003456	9	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	MAP3K1
+P-0003456	9	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0003456	9	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	EGFR-intragenic	EGFR
+P-0003360	29	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	Combo	Brain	SNP	DNMT3A
+P-0003360	29	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	Combo	Brain	SNP	EGFR
+P-0003360	29	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	Combo	Brain	SNP	ERG
+P-0003360	29	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	Combo	Brain	SNP	TERT
+P-0003350	16	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	EGFR
+P-0003350	16	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	ERCC2
+P-0003350	16	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	NOTCH3
+P-0003350	16	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0003350	16	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	PARK2-EYS fusion	EYS
+P-0003350	16	3.94	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	PARK2-EYS fusion	PRKN
+P-0003319	4	0.98	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	INS	EGFR
+P-0002836	1	5.58	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	DEL	PTEN
+P-0002836	1	5.58	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	BAP1
+P-0002836	1	5.58	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	ESR1
+P-0002836	1	5.58	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	NF1
+P-0002836	1	5.58	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0002647	4	4.46	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	EGFR
+P-0002647	4	4.46	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	FAT1
+P-0002647	4	4.46	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PTEN
+P-0002647	4	4.46	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0002633	21	22.3	Glioma	Glioblastoma Multiforme	GBM	Primary	Combo	Brain	DEL	ASXL2
+P-0002633	21	22.3	Glioma	Glioblastoma Multiforme	GBM	Primary	Combo	Brain	DEL	EP300
+P-0002633	21	22.3	Glioma	Glioblastoma Multiforme	GBM	Primary	Combo	Brain	DEL	NF1
+P-0002633	21	22.3	Glioma	Glioblastoma Multiforme	GBM	Primary	Combo	Brain	DEL	PDCD1
+P-0002633	21	22.3	Glioma	Glioblastoma Multiforme	GBM	Primary	Combo	Brain	DEL	PTCH1
+P-0002633	21	22.3	Glioma	Glioblastoma Multiforme	GBM	Primary	Combo	Brain	DEL	RB1
+P-0002633	21	22.3	Glioma	Glioblastoma Multiforme	GBM	Primary	Combo	Brain	DEL	SETD2
+P-0002633	21	22.3	Glioma	Glioblastoma Multiforme	GBM	Primary	Combo	Brain	SNP	ATRX
+P-0002633	21	22.3	Glioma	Glioblastoma Multiforme	GBM	Primary	Combo	Brain	SNP	CARD11
+P-0002633	21	22.3	Glioma	Glioblastoma Multiforme	GBM	Primary	Combo	Brain	SNP	DDR2
+P-0002633	21	22.3	Glioma	Glioblastoma Multiforme	GBM	Primary	Combo	Brain	SNP	JAK1
+P-0002633	21	22.3	Glioma	Glioblastoma Multiforme	GBM	Primary	Combo	Brain	SNP	LATS1
+P-0002633	21	22.3	Glioma	Glioblastoma Multiforme	GBM	Primary	Combo	Brain	SNP	MSH2
+P-0002633	21	22.3	Glioma	Glioblastoma Multiforme	GBM	Primary	Combo	Brain	SNP	NTRK1
+P-0002633	21	22.3	Glioma	Glioblastoma Multiforme	GBM	Primary	Combo	Brain	SNP	PALB2
+P-0002633	21	22.3	Glioma	Glioblastoma Multiforme	GBM	Primary	Combo	Brain	SNP	PIK3CA
+P-0002633	21	22.3	Glioma	Glioblastoma Multiforme	GBM	Primary	Combo	Brain	SNP	PIK3CA
+P-0002633	21	22.3	Glioma	Glioblastoma Multiforme	GBM	Primary	Combo	Brain	SNP	SOX17
+P-0002633	21	22.3	Glioma	Glioblastoma Multiforme	GBM	Primary	Combo	Brain	SNP	STAG2
+P-0002633	21	22.3	Glioma	Glioblastoma Multiforme	GBM	Primary	Combo	Brain	SNP	TP53
+P-0002620	11	6.69	Glioma	"High-Grade Glioma, NOS"	HGGNOS	Primary	PD-1/PDL-1	Brain	DEL	ETV6
+P-0002620	11	6.69	Glioma	"High-Grade Glioma, NOS"	HGGNOS	Primary	PD-1/PDL-1	Brain	DEL	SETD2
+P-0002620	11	6.69	Glioma	"High-Grade Glioma, NOS"	HGGNOS	Primary	PD-1/PDL-1	Brain	SNP	KDM5A
+P-0002620	11	6.69	Glioma	"High-Grade Glioma, NOS"	HGGNOS	Primary	PD-1/PDL-1	Brain	SNP	PTPN11
+P-0002620	11	6.69	Glioma	"High-Grade Glioma, NOS"	HGGNOS	Primary	PD-1/PDL-1	Brain	SNP	PTPN11
+P-0002620	11	6.69	Glioma	"High-Grade Glioma, NOS"	HGGNOS	Primary	PD-1/PDL-1	Brain	SNP	RBM10
+P-0002452	6	2.23	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	EPCAM
+P-0002452	6	2.23	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0002386	12	5.58	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	INS	ATRX
+P-0002386	12	5.58	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	AKT1
+P-0002386	12	5.58	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	IDH1
+P-0002386	12	5.58	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	PIK3CA
+P-0002386	12	5.58	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	TP53
+P-0002265	21	2.23	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PIK3R2
+P-0002265	21	2.23	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0002265	21	2.23	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	EGFR-intragenic	EGFR
+P-0002181	9	3.35	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	DNMT3B
+P-0002181	9	3.35	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	PIK3R1
+P-0002181	9	3.35	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0002015	8	2.23	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	MAP3K1
+P-0002015	8	2.23	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0001882	23	35.69	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	DEL	FUBP1
+P-0001882	23	35.69	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	ALK
+P-0001882	23	35.69	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	ARID1B
+P-0001882	23	35.69	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	ARID2
+P-0001882	23	35.69	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	BCL6
+P-0001882	23	35.69	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	BCOR
+P-0001882	23	35.69	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	BRD4
+P-0001882	23	35.69	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	BRIP1
+P-0001882	23	35.69	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	CDKN1B
+P-0001882	23	35.69	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	CIC
+P-0001882	23	35.69	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	ETV1
+P-0001882	23	35.69	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	FGFR1
+P-0001882	23	35.69	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	IDH1
+P-0001882	23	35.69	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	IRF4
+P-0001882	23	35.69	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	MET
+P-0001882	23	35.69	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	KMT2B
+P-0001882	23	35.69	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	KMT2B
+P-0001882	23	35.69	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	KMT2B
+P-0001882	23	35.69	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	NF2
+P-0001882	23	35.69	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	NOTCH1
+P-0001882	23	35.69	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	NOTCH3
+P-0001882	23	35.69	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	NOTCH4
+P-0001882	23	35.69	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	NSD1
+P-0001882	23	35.69	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	PRKN
+P-0001882	23	35.69	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	PBRM1
+P-0001882	23	35.69	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	PIK3CD
+P-0001882	23	35.69	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	RBM10
+P-0001882	23	35.69	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	SMAD2
+P-0001882	23	35.69	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	SMAD4
+P-0001882	23	35.69	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	STAG2
+P-0001882	23	35.69	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	STK11
+P-0001882	23	35.69	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0001843	7	5.58	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	DEL	PTEN
+P-0001843	7	5.58	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	DEL	TP53
+P-0001843	7	5.58	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	EPHA3
+P-0001843	7	5.58	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PIK3C2G
+P-0001843	7	5.58	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0001731	31	5.58	Glioma	"High-Grade Glioma, NOS"	HGGNOS	Primary	PD-1/PDL-1	Brain	DEL	ATRX
+P-0001731	31	5.58	Glioma	"High-Grade Glioma, NOS"	HGGNOS	Primary	PD-1/PDL-1	Brain	SNP	PDGFRA
+P-0001731	31	5.58	Glioma	"High-Grade Glioma, NOS"	HGGNOS	Primary	PD-1/PDL-1	Brain	SNP	SMAD3
+P-0001731	31	5.58	Glioma	"High-Grade Glioma, NOS"	HGGNOS	Primary	PD-1/PDL-1	Brain	SNP	TP53
+P-0001731	31	5.58	Glioma	"High-Grade Glioma, NOS"	HGGNOS	Primary	PD-1/PDL-1	Brain	SNP	TP53
+P-0001591	15	2.23	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	PDGFRA
+P-0001591	15	2.23	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	PDGFRA
+P-0001420	4	40.15	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	DEL	CDKN2C
+P-0001420	4	40.15	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	DEL	SMARCB1
+P-0001420	4	40.15	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	INS	CIC
+P-0001420	4	40.15	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	ARID2
+P-0001420	4	40.15	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	ATM
+P-0001420	4	40.15	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	BCL6
+P-0001420	4	40.15	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	CBFB
+P-0001420	4	40.15	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	EP300
+P-0001420	4	40.15	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	EP300
+P-0001420	4	40.15	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	ERBB2
+P-0001420	4	40.15	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	ERBB4
+P-0001420	4	40.15	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	ERCC4
+P-0001420	4	40.15	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	FGF19
+P-0001420	4	40.15	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	GSK3B
+P-0001420	4	40.15	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	IDH1
+P-0001420	4	40.15	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	KDM5C
+P-0001420	4	40.15	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	MEN1
+P-0001420	4	40.15	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	MET
+P-0001420	4	40.15	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	MITF
+P-0001420	4	40.15	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	KMT2B
+P-0001420	4	40.15	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	KMT2B
+P-0001420	4	40.15	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	KMT2B
+P-0001420	4	40.15	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	MPL
+P-0001420	4	40.15	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	NSD1
+P-0001420	4	40.15	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	NSD1
+P-0001420	4	40.15	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	PALB2
+P-0001420	4	40.15	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	PDCD1
+P-0001420	4	40.15	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	PRDM1
+P-0001420	4	40.15	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	PTPRT
+P-0001420	4	40.15	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	RAD51C
+P-0001420	4	40.15	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	RB1
+P-0001420	4	40.15	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	SETD2
+P-0001420	4	40.15	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	SMARCA4
+P-0001420	4	40.15	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0001420	4	40.15	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	TSC2
+P-0001420	4	40.15	Glioma	Anaplastic Oligodendroglioma	AODG	Primary	PD-1/PDL-1	Brain	SNP	WT1
+P-0001408	4	4.46	Glioma	Anaplastic Astrocytoma	AASTR	Primary	Combo	Brain	DEL	PIK3R1
+P-0001408	4	4.46	Glioma	Anaplastic Astrocytoma	AASTR	Primary	Combo	Brain	INS	NF1
+P-0001408	4	4.46	Glioma	Anaplastic Astrocytoma	AASTR	Primary	Combo	Brain	SNP	NF1
+P-0001408	4	4.46	Glioma	Anaplastic Astrocytoma	AASTR	Primary	Combo	Brain	SNP	TERT
+P-0001406	3	3.35	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	INS	CDKN2C
+P-0001406	3	3.35	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	MAP3K13
+P-0001406	3	3.35	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0001400	3	5.58	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	DEL	PIK3R1
+P-0001400	3	5.58	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	ATRX
+P-0001400	3	5.58	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	BCOR
+P-0001400	3	5.58	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	IDH1
+P-0001400	3	5.58	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TP53
+P-0001388	16	6.69	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	FOXA1
+P-0001388	16	6.69	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PAK5
+P-0001388	16	6.69	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	POLE
+P-0001388	16	6.69	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PTEN
+P-0001388	16	6.69	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0001388	16	6.69	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TP63
+P-0001052	8	5.58	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	DEL	ALOX12B
+P-0001052	8	5.58	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	FLT4
+P-0001052	8	5.58	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PIK3CA
+P-0001052	8	5.58	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PTEN
+P-0001052	8	5.58	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0000818	14	5.58	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PTEN
+P-0000818	14	5.58	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	RB1
+P-0000818	14	5.58	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	ROS1
+P-0000818	14	5.58	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0000818	14	5.58	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TP53
+P-0000758	14	4.46	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	PIK3CA
+P-0000758	14	4.46	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	STAG2
+P-0000758	14	4.46	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TERT
+P-0000758	14	4.46	Glioma	Glioblastoma Multiforme	GBM	Primary	PD-1/PDL-1	Brain	SNP	TP53
+P-0000749	13	8.92	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	APC
+P-0000749	13	8.92	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	ATRX
+P-0000749	13	8.92	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	CDH1
+P-0000749	13	8.92	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	FGFR1
+P-0000749	13	8.92	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	IDH1
+P-0000749	13	8.92	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	PIK3R1
+P-0000749	13	8.92	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	TP53
+P-0000749	13	8.92	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	TP53
+P-0000223	2	5.58	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	DEL	ATRX
+P-0000223	2	5.58	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	FAT1
+P-0000223	2	5.58	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	IDH1
+P-0000223	2	5.58	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	KDM6A
+P-0000223	2	5.58	Glioma	Anaplastic Astrocytoma	AASTR	Primary	PD-1/PDL-1	Brain	SNP	TP53
